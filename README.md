@@ -1,4 +1,4 @@
-# Social-Media-Analytics-
+# Starbucks Reddit Sentiment Analysis
 # Project Description
 
 This project focuses on analyzing customer opinions and experiences about Starbucks by extracting posts from Reddit using the PRAW (Python Reddit API Wrapper).
